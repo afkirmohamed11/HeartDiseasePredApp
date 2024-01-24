@@ -25,16 +25,18 @@ You can now view your Streamlit app in your browser.
 
 
 
-<img width="769" alt="image" src="images/initial-ml-process.png">
+
 
 
 ## The App
 ## 1st screenshot
-<img width="769" alt="image" src="images/Screen1.png">
+![Screen1_055726](https://github.com/afkirmohamed11/HeartDiseasePredApp/assets/157531189/810e8f4e-3a57-4d65-9fe2-0b53ef74af42)
+
 
 
 ## 2nd screenshot
-<img width="769" alt="image" src="images/Screen2.png">
+![Screen2_055731](https://github.com/afkirmohamed11/HeartDiseasePredApp/assets/157531189/e5d4b880-8115-4a93-9ec9-7231776b0b35)
+
 
 
 ## License
